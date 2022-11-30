@@ -1,0 +1,44 @@
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.AutoMapAttribute 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.IInternalRuntimeMapper 生成存根: 类型对 exported or assembly(AutoMapper.Fakes) 不可见。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.ResolutionContext 生成存根: 类型没有对程序集可见的构造函数。构造函数本身或参数可能不可见。。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.TypeMapFactory 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.HashCodeCombiner 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.ValueTransformerConfigurationExtensions 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.QueryableExtensions.ExpressionBuilderExtensions 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.QueryableExtensions.Extensions 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.QueryableExtensions.NullableSourceExpressionBinder 生成存根: 类型对 exported or assembly(AutoMapper.Fakes) 不可见。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.QueryableExtensions.NullsafeQueryRewriter 生成存根: 类型对 exported or assembly(AutoMapper.Fakes) 不可见。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.QueryableExtensions.Impl.QueryMapperHelper 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.QueryableExtensions.Impl.QueryMapperVisitor 生成存根: 类型没有对程序集可见的构造函数。构造函数本身或参数可能不可见。。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Mappers.MapperRegistry 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Features.FeatureExtensions 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Execution.DelegateFactory 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Execution.ExpressionBuilder 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Execution.ProxyGenerator 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Internal.CollectionMapperExpressionFactory 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Internal.ElementTypeHelper 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Internal.ExpressionFactory 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Internal.PrimitiveHelper 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Internal.ReflectionHelper 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Internal.TypeExtensions 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Configuration.Annotations.IgnoreAttribute 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Configuration.Annotations.MapAtRuntimeAttribute 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Configuration.Annotations.MappingOrderAttribute 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Configuration.Annotations.NullSubstituteAttribute 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Configuration.Annotations.SourceMemberAttribute 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Configuration.Annotations.UseExistingValueAttribute 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Configuration.Annotations.ValueConverterAttribute 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Configuration.Annotations.ValueResolverAttribute 生成存根: 类型已密封。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.TypePair+InterfaceComparer 生成填充码: 类型对 exported or assembly(AutoMapper.Fakes) 不可见。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.QueryableExtensions.ExpressionBuilder+FirstPassLetPropertyMaps+GetMemberAccessesVisitor 生成填充码: 类型对 exported or assembly(AutoMapper.Fakes) 不可见。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.QueryableExtensions.ExpressionBuilder+FirstPassLetPropertyMaps+ReplaceMemberAccessesVisitor 生成填充码: 类型对 exported or assembly(AutoMapper.Fakes) 不可见。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.QueryableExtensions.ExpressionBuilder+ParameterExpressionVisitor 生成填充码: 类型对 exported or assembly(AutoMapper.Fakes) 不可见。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.QueryableExtensions.NullableSourceExpressionBinder 生成填充码: 类型对 exported or assembly(AutoMapper.Fakes) 不可见。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.QueryableExtensions.NullsafeQueryRewriter 生成填充码: 类型对 exported or assembly(AutoMapper.Fakes) 不可见。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Mappers.FromStringDictionaryMapper+Match 生成填充码: 类型对 exported or assembly(AutoMapper.Fakes) 不可见。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Mappers.MapperRegistry 生成填充码: 类型对 exported or assembly(AutoMapper.Fakes) 不可见。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Internal.ExpressionFactory+ConvertingVisitor 生成填充码: 类型对 exported or assembly(AutoMapper.Fakes) 不可见。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Internal.ExpressionFactory+ExpressionConcatVisitor 生成填充码: 类型对 exported or assembly(AutoMapper.Fakes) 不可见。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Internal.ExpressionFactory+ReplaceExpressionVisitor 生成填充码: 类型对 exported or assembly(AutoMapper.Fakes) 不可见。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Configuration.MapperConfigurationExpression+NamedProfile 生成填充码: 类型对 exported or assembly(AutoMapper.Fakes) 不可见。
+D:\HeGong\程序\MacBook AOI 项目代码_220614\Kit\GL.AutoFactory\Fakes\AutoMapper.fakes : warning : 无法为 AutoMapper.Configuration.Conventions.SourceToDestinationNameMapperAttributesMember+SourceMember 生成填充码: 类型对 exported or assembly(AutoMapper.Fakes) 不可见。

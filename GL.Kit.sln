@@ -1,0 +1,55 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GL.Kit", "GL.Kit\GL.Kit.csproj", "{2763F3A3-7C13-43C2-984E-58339DA7C886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GL.KitTests", "GL.KitTests\GL.KitTests.csproj", "{CD1FBA33-8C5F-4530-A127-009C457EF096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GL.WebApiKit", "GL.WebApiKit\GL.WebApiKit.csproj", "{06E9938A-1452-4CF6-A5BB-1AF22BFA89E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GL.Kit.Net.Http", "GL.Kit.Net.Http\GL.Kit.Net.Http.csproj", "{B50C8CBC-7822-4F77-90D2-DFA8674803EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GL.NpoiKit", "GL.NPOIKit\GL.NpoiKit.csproj", "{CAF6488A-6858-438C-9F98-A1CCD8BA6BB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GL.WinFormKit", "GL.WinFormKit\GL.WinFormKit.csproj", "{63BCD575-F276-4476-8F2D-614C5F748C6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2763F3A3-7C13-43C2-984E-58339DA7C886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2763F3A3-7C13-43C2-984E-58339DA7C886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2763F3A3-7C13-43C2-984E-58339DA7C886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2763F3A3-7C13-43C2-984E-58339DA7C886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD1FBA33-8C5F-4530-A127-009C457EF096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1FBA33-8C5F-4530-A127-009C457EF096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1FBA33-8C5F-4530-A127-009C457EF096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1FBA33-8C5F-4530-A127-009C457EF096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06E9938A-1452-4CF6-A5BB-1AF22BFA89E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E9938A-1452-4CF6-A5BB-1AF22BFA89E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E9938A-1452-4CF6-A5BB-1AF22BFA89E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E9938A-1452-4CF6-A5BB-1AF22BFA89E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50C8CBC-7822-4F77-90D2-DFA8674803EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50C8CBC-7822-4F77-90D2-DFA8674803EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50C8CBC-7822-4F77-90D2-DFA8674803EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50C8CBC-7822-4F77-90D2-DFA8674803EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF6488A-6858-438C-9F98-A1CCD8BA6BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF6488A-6858-438C-9F98-A1CCD8BA6BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF6488A-6858-438C-9F98-A1CCD8BA6BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF6488A-6858-438C-9F98-A1CCD8BA6BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63BCD575-F276-4476-8F2D-614C5F748C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BCD575-F276-4476-8F2D-614C5F748C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BCD575-F276-4476-8F2D-614C5F748C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BCD575-F276-4476-8F2D-614C5F748C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11B79812-7491-428D-9CBB-27EE01F46E5E}
+	EndGlobalSection
+EndGlobal
